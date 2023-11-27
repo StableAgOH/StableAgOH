@@ -3,11 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript)
-
-![Static Badge](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
-![Static Badge](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git)
-![Static Badge](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode)
-![Static Badge](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
 ![Static Badge](https://img.shields.io/badge/latex-green?style=for-the-badge&logo=latex)
 
 [![Static Badge](https://img.shields.io/badge/bilibili-pink?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/120174936)
